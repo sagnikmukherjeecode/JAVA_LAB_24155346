@@ -11,7 +11,6 @@ public class day1Prog3 {
             case 6: System.out.println("Friday"); break;
             case 7: System.out.println("Saturday"); break;
             default: System.out.println("Invalid day number");
-
         }
     }
 }

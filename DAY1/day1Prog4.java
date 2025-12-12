@@ -14,6 +14,5 @@ public class day1Prog4 {
         else
             System.out.println(num + " is NOT a Palindrome");
 
-
     }
 }
