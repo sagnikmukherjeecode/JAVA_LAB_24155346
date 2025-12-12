@@ -11,5 +11,7 @@ public class day1Prog5 {
         String last = sc.nextLine();
 
         System.out.println(last + " " + first);
+
+
     }
 }

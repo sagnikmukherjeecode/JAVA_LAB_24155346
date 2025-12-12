@@ -13,5 +13,7 @@ public class day1Prog4 {
             System.out.println(num + " is a Palindrome");
         else
             System.out.println(num + " is NOT a Palindrome");
+
+
     }
 }

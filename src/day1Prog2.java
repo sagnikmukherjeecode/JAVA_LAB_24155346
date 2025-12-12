@@ -14,5 +14,6 @@ public class day1Prog2 {
             System.out.println("Grade: C");
         else
             System.out.println("Grade: FAIL");
+
     }
 }
