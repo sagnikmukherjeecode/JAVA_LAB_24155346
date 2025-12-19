@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 // Class Rectangle
-class Rectangle {
+class Rectangle1 {
 
     // Data members
     double length, breadth;
@@ -34,7 +34,7 @@ public class day2Prog4 {
     public static void main(String[] args) {
 
         // Create object of Rectangle class
-        Rectangle r = new Rectangle();
+        Rectangle1 r = new Rectangle1();
 
         // Call methods
         r.read();
