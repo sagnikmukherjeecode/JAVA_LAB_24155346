@@ -1,3 +1,5 @@
+package day4;
+
 interface Motor
 {
     int capacity = 5;
