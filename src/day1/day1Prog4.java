@@ -1,3 +1,5 @@
+package day1;
+
 public class day1Prog4 {
     public static void main(String[] args) {
         int num = 121; // change number here
@@ -13,6 +15,7 @@ public class day1Prog4 {
             System.out.println(num + " is a Palindrome");
         else
             System.out.println(num + " is NOT a Palindrome");
+
 
     }
 }

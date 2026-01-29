@@ -1,3 +1,5 @@
+package day3;
+
 class day3prog3_Apple {
     void show() {
         System.out.println("Apple show()");

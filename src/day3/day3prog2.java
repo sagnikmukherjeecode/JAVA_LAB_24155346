@@ -1,3 +1,5 @@
+package day3;
+
 import java.util.Scanner;
 
 class day3prog2_plate {/**/

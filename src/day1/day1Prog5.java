@@ -1,3 +1,5 @@
+package day1;
+
 import java.util.Scanner;
 
 public class day1Prog5 {

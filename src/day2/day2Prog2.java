@@ -1,3 +1,5 @@
+package day2;
+
 // Program to find number of objects created using static modifier
 class day2prog2 {
 

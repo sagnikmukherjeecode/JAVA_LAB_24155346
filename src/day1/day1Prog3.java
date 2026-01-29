@@ -1,3 +1,5 @@
+package day1;
+
 public class day1Prog3 {
     public static void main(String[] args) {
         int dayNo = 3; // change day number here (1–7)
@@ -11,6 +13,8 @@ public class day1Prog3 {
             case 6: System.out.println("Friday"); break;
             case 7: System.out.println("Saturday"); break;
             default: System.out.println("Invalid day number");
+
+
         }
     }
 }

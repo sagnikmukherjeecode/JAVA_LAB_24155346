@@ -1,3 +1,5 @@
+package day2;
+
 import java.util.Scanner;
 
 // Class Box with data members and method

@@ -1,3 +1,5 @@
+package day1;
+
 public class day1Prog2 {
     public static void main(String[] args) {
         int marks = 85; // change value here

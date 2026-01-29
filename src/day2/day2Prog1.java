@@ -1,3 +1,5 @@
+package day2;
+
 import java.util.*;
 public class day2Prog1 {
     public void evenOrOdd(int n)
